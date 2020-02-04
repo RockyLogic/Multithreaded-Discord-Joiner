@@ -1,1 +1,1 @@
-DiscordTag#0001:Token
+DiscordTagHere#0001:TokenHere
