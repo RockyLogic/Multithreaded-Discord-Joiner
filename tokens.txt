@@ -1,1 +1,1 @@
-test:test
+DiscordTag#0001:Token
